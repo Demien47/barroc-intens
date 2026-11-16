@@ -1,4 +1,4 @@
-# Barroc Intens
+# Barroc Intens :)
 
 ## Over het project
 
