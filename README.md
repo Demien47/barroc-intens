@@ -1,6 +1,6 @@
 # Barroc Intens :)
 
-## Over het project
+## Over het project ☺
 
 Barroc Intens is een softwareproject waarin wij een applicatie ontwikkelen voor het bedrijf Barroc Intens. Het bedrijf verhuurt professionele koffieautomaten aan horecagelegenheden.
 
