@@ -95,10 +95,10 @@ Installatie-instructies worden toegevoegd zodra de applicatie en de benodigde co
 
 | Naam | Rol |
 |---|---|
-| [Naam] | Software Developer |
-| [Naam] | Software Developer |
-| [Naam] | Software Developer |
-| [Naam] | Software Developer |
+| robin | Software Developer |
+| dion | Software Developer |
+| joey | Software Developer |
+| demien | Software Developer |
 
 ## Opdrachtgever
 
